@@ -1,0 +1,14 @@
+E:\BL\C#\BasicOnDataTypes\bin\Debug\netcoreapp3.1\BasicOnDataTypes.exe
+E:\BL\C#\BasicOnDataTypes\bin\Debug\netcoreapp3.1\BasicOnDataTypes.deps.json
+E:\BL\C#\BasicOnDataTypes\bin\Debug\netcoreapp3.1\BasicOnDataTypes.runtimeconfig.json
+E:\BL\C#\BasicOnDataTypes\bin\Debug\netcoreapp3.1\BasicOnDataTypes.runtimeconfig.dev.json
+E:\BL\C#\BasicOnDataTypes\bin\Debug\netcoreapp3.1\BasicOnDataTypes.dll
+E:\BL\C#\BasicOnDataTypes\bin\Debug\netcoreapp3.1\BasicOnDataTypes.pdb
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.AssemblyInfoInputs.cache
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.AssemblyInfo.cs
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.csproj.CoreCompileInputs.cache
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.dll
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.pdb
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.genruntimeconfig.cache
+E:\BL\C#\BasicOnDataTypes\obj\Debug\netcoreapp3.1\BasicOnDataTypes.sourcelink.json

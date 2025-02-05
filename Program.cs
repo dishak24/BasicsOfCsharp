@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BasicCode;
+using System;
 
 namespace BasicOnDataTypes
 {
@@ -6,13 +7,17 @@ namespace BasicOnDataTypes
     {
         static void Main(string[] args)
         {
-            //UniqueChar.isOrNot();//unique char method call
+            UniqueChar.isOrNot();//unique char method call
 
-            //PrimeNumbers.primeNumPrinting();
+            PrimeNumbers.primeNumPrinting();
 
             AnagramStr.anagramString();
 
+            MathFunctions.applyMathFunctions();
 
+            RandomCode.randomValues();
+
+            DateTimeFunctions.datefunction();
 
         }
     }
